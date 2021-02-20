@@ -1,0 +1,10 @@
+Flask==1.0.2
+Flask-Cors==3.0.4
+flask-migrate==2.2.0
+Flask-SQLAlchemy==2.3.2
+gunicorn==19.8.1
+mysqlclient==1.4.2
+PyMySQL==0.9.3
+Flask-Security==1.7.5
+flask-admin==1.5.0
+marshmallow==2.12.2
